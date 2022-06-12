@@ -25,13 +25,7 @@ import java.util.Optional;
 @RequiredArgsConstructor
 public class AuthController {
 
-//ketmon
-//ketmon
-//ketmon
-//ketmon
-//ketmongit
-//ketmongit
-//ketmongit
+//jdk8
     private final AuthenticationManager authenticationManager;
 
    private final JwtProvider jwtProvider;
